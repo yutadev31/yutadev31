@@ -1,11 +1,11 @@
 # About Me
 
-- 👋 Hi, I’m @yutalinux
-- 👀 I’m interested in
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: [Twitter](https://x.com/yutalinux)
-- 😄 Pronouns: ...
+👋 Hi, I'm Yuta, a 13-year-old from Japan.
 
-## Skills
+I’m passionate about programming, especially with **Rust**, **Python**, and **web technologies**.
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,astro,next,tailwind,nodejs,python,rust,linux,git,github,githubactions,docker&perline=8)
+🎮 I also enjoy playing **Minecraft**.
+
+🖥️ I used to use **VSCode**, but I'm in the process of switching to **Neovim** for coding.
+
+🐧 For my development environment, I use **Arch Linux**, which gives me full control over my system and a clean, minimal setup.
