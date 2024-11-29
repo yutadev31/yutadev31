@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Yuta.
 
-🛠️ I primarily work with **Rust**, **Python**, and **web technologies** (e.g., **React**, **TailwindCSS**).
+🛠️ I primarily work with **Rust**, **Python**, and **web technologies** (such as **React** and **TailwindCSS**).
 
 🎮 I enjoy playing **Minecraft** as well.
 
