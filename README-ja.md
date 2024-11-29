@@ -6,6 +6,6 @@
 
 🎮 また**Minecraft**もプレイしています。
 
-🖥️ 現在、**VSCode**から**Neovim**へ移行中です。
+🖥️ 最近、**VSCode**から**Neovim**へ移行中です。
 
 🐧 開発環境には**Arch Linux**を使用しています。
