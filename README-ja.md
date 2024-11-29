@@ -1,7 +1,5 @@
 # 僕について
 
-[English](./README.md)
-
 👋 こんにちは、Yutaです。
 
 🛠️ 趣味で、主に**Rust**、**Python**、そして**ウェブ技術**（**React**、**TailwindCSS**など）を使って開発しています
