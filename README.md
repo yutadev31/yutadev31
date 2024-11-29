@@ -1,5 +1,7 @@
 # About Me
 
+[日本語](./README-ja.md)
+
 👋 Hi, I'm Yuta.
 
 🛠️ I primarily work with **Rust**, **Python**, and **web technologies** (such as **React** and **TailwindCSS**).
