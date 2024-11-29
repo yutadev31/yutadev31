@@ -1,11 +1,11 @@
 # About Me
 
-👋 Hi, I'm Yuta, a 13-year-old from Japan.
+👋 Hi, I'm Yuta.
 
-I’m passionate about programming, especially with **Rust**, **Python**, and **web technologies**.
+🛠️ I primarily work with **Rust**, **Python**, and **web technologies** (e.g., **React**, **TailwindCSS**).
 
-🎮 I also enjoy playing **Minecraft**.
+🎮 I enjoy playing **Minecraft** as well.
 
-🖥️ I used to use **VSCode**, but I'm in the process of switching to **Neovim** for coding.
+🖥️ I'm currently transitioning from **VSCode** to **Neovim**.
 
-🐧 For my development environment, I use **Arch Linux**, which gives me full control over my system and a clean, minimal setup.
+🐧 I use **Arch Linux** as my development environment.
