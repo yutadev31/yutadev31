@@ -17,8 +17,6 @@ I enjoy building developer tools and desktop utilities, experimenting with Linux
 
 Some projects I'm currently working on:
 
-- [rubar](https://github.com/yutadev31/rubar) — a custom status bar for X11 and Wayland
-- [cpst](https://github.com/yutadev31/cpst) — simple cross-platform clipboard CLI tools
 - [dotfiles](https://github.com/yutadev31/dotfiles) — my Linux/BSD and development environment configuration
 
 ## Tech
