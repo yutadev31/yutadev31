@@ -18,6 +18,8 @@ I enjoy building developer tools and desktop utilities, experimenting with Linux
 Some projects I'm currently working on:
 
 - [dotfiles](https://github.com/yutadev31/dotfiles) — my Linux/BSD and development environment configuration
+- [cpst](https://github.com/yutadev31/cpst) — a simple, cross-platform clipboard CLI
+- [shot](https://github.com/yutadev31/shot) — a fast, cross-platform screenshot CLI
 
 ## Tech
 
